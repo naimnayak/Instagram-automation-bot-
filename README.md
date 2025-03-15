@@ -31,7 +31,7 @@ MESSAGE_LINK = ""  # Replace with your link
 
 1. Run the script:
 
-python script_name.py
+python script.py
 
 2. The script will:
     Load your followers.
